@@ -17,3 +17,5 @@
 - supraincarcarea operatorilor
 #### [Curs 4](https://github.com/tgpetrica/POO-courses/blob/main/POO_22_C_2022-03-17.md)
 - tratarea exceptiilor
+#### [Curs 6](https://github.com/tgpetrica/POO-courses/blob/main/POO_22_C_2022-03-31.md)
+- scurta prezentare a POO
