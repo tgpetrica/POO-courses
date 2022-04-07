@@ -19,3 +19,8 @@
 - tratarea exceptiilor
 #### [Curs 6](https://github.com/tgpetrica/POO-courses/blob/main/POO_22_C_2022-03-31.md)
 - scurta prezentare a POO
+#### [Curs 7](https://github.com/tgpetrica/POO-courses/blob/main/POO_22_C_2022-04-07.md)
+- Clase
+    - specificatori de acces
+    - constructori
+    - destructori
