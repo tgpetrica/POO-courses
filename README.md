@@ -24,3 +24,8 @@
     - specificatori de acces
     - constructori
     - destructori
+#### [Curs 8](https://github.com/tgpetrica/POO-courses/blob/main/POO_22_C_2022-04-14.md)
+- redactarea functiilor prietene claselor
+- supraincarcarea operatorilor pentru clase
+- pointerul ```this```
+- membri statici
