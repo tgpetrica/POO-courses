@@ -29,3 +29,5 @@
 - supraincarcarea operatorilor pentru clase
 - pointerul ```this```
 - membri statici
+#### [Curs 9](https://github.com/tgpetrica/POO-courses/blob/main/POO_22_C_2022-04-21.md)
+- constructorul de copiere
