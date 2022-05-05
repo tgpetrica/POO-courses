@@ -31,3 +31,9 @@
 - membri statici
 #### [Curs 9](https://github.com/tgpetrica/POO-courses/blob/main/POO_22_C_2022-04-21.md)
 - constructorul de copiere
+#### [Curs 10](https://github.com/tgpetrica/POO-courses/blob/main/POO_22_C_2022-05-05.md)
+- mostenire
+- functii virtuale
+    - mecanismul de apelare a functiilor virtuale
+- destructori virtuali
+- apelul unui constructor dintr-o clasa derivata
