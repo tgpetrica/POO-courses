@@ -41,3 +41,8 @@
 - ```dynamic_cast```
 - functii pur virtuale
 - clase abstracte
+#### [Curs 12](https://github.com/tgpetrica/POO-courses/blob/main/POO_22_C_2022-05-19.md)
+- mostenire multipla
+- clase imbricate
+- clase template
+- ierarhia ```ios```
