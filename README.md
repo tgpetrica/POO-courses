@@ -49,3 +49,11 @@
 #### [Curs 13](https://github.com/tgpetrica/POO-courses/blob/main/POO_22_C_2022-05-26.md)
 - iararhia ```ios```
 - fisiere
+#### [Curs 14](https://github.com/tgpetrica/POO-courses/blob/main/POO_22_C_2022-06-02.md)
+- STL
+    - iteratori
+    - containere
+    - Algorithm
+    - `range based for`
+    - `auto`
+- expresii lambda
